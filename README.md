@@ -1,7 +1,5 @@
 This VS code clone is made purely using HTML, CSS and JS. 
 <br>
-CSS is heavely used to style the webpage. 
-<br>
-JS is used to make the webpage a little interactive and youthful.
+The idea is to plan a basic layout for the website and then use the grid display property to create the layout. 
 <br>
 Author : @thedrishtigupta
